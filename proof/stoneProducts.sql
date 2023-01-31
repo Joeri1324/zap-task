@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE title LIKE '%stone%';
